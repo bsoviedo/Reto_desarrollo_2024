@@ -1,0 +1,1685 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Página",
+      "bodyBackgroundColor": "#ffffff"
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FLOW",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "bbox": {
+            "left": "135px",
+            "right": "535px",
+            "top": "0px",
+            "bottom": "400px",
+            "width": "400px",
+            "height": 94
+          },
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "4": {
+          "type": "WIDGET",
+          "widgetId": "widget_6",
+          "bbox": {
+            "left": "0px",
+            "right": "NaNpx",
+            "top": "0px",
+            "bottom": "NaNpx",
+            "width": "1270px",
+            "height": 365
+          },
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "6": {
+          "type": "WIDGET",
+          "widgetId": "widget_8",
+          "bbox": {
+            "left": "0px",
+            "right": "NaNpx",
+            "top": "0px",
+            "bottom": "NaNpx",
+            "width": "1270px",
+            "height": 418
+          },
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "10": {
+          "type": "WIDGET",
+          "widgetId": "widget_36",
+          "bbox": {
+            "left": "0px",
+            "right": "NaNpx",
+            "top": "0px",
+            "bottom": "NaNpx",
+            "width": "423px",
+            "height": 394
+          },
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "11": {
+          "type": "WIDGET",
+          "widgetId": "widget_38",
+          "bbox": {
+            "left": "400px",
+            "right": "800px",
+            "top": "1111px",
+            "bottom": "1511px",
+            "width": "400px",
+            "height": 959
+          },
+          "setting": {
+            "heightMode": "fixed"
+          }
+        }
+      },
+      "order": [
+        "0",
+        "4",
+        "10",
+        "6",
+        "11"
+      ]
+    },
+    "layout_1": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_2",
+          "setting": {
+            "heightMode": "fit"
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "400px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_2": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_9",
+          "bbox": {
+            "left": "0.0%",
+            "right": "81.9%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "18.1%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_5": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_10",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_6": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_5",
+          "setting": {
+            "heightMode": "fit"
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": 398
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_7": {
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_20",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Default",
+      "order": [
+        "1"
+      ]
+    },
+    "layout_8": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_7",
+          "setting": {
+            "heightMode": "fit"
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": 398
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_9": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_11",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 2,
+            "width": 8,
+            "height": "70px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_10": {
+      "type": "FIXED",
+      "content": {
+        "4": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0px",
+            "top": "53.7%",
+            "bottom": "95px",
+            "width": "100.0%",
+            "height": "20.8%"
+          },
+          "widgetId": "widget_13",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "isPending": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "34.2%",
+            "right": "130px",
+            "top": "5.7%",
+            "bottom": "57.9%",
+            "width": "33.7%",
+            "height": "36.4%"
+          },
+          "widgetId": "widget_14",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "heightMode": "ratio",
+            "aspectRatio": 1,
+            "lockParent": false
+          },
+          "isPending": false
+        },
+        "8": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "5.00%",
+            "right": "5.0360%",
+            "top": "63.7982%",
+            "bottom": "13.8426%",
+            "width": "90.00%",
+            "height": "22.3592%"
+          },
+          "widgetId": "widget_16",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "4",
+        "6",
+        "8"
+      ],
+      "label": "Predeterminado"
+    },
+    "layout_11": {
+      "label": "Pasar el cursor",
+      "type": "FIXED",
+      "content": {
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": "0.00%",
+            "bottom": "28.9782%",
+            "width": "100.00%",
+            "height": "79.39%"
+          },
+          "widgetId": "widget_17",
+          "setting": {}
+        }
+      },
+      "order": [
+        "3"
+      ]
+    },
+    "layout_12": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_37",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 4,
+            "width": 4,
+            "height": 70
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_13": {
+      "type": "FIXED",
+      "content": {
+        "4": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "5.00%",
+            "right": 14,
+            "top": "53.7505%",
+            "bottom": 144,
+            "width": "90.00%",
+            "height": "10.0503%"
+          },
+          "widgetId": "widget_22",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "34.2%",
+            "right": "130px",
+            "top": "5.7%",
+            "bottom": "57.9%",
+            "width": "33.7%",
+            "height": "36.4%"
+          },
+          "widgetId": "widget_23",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "heightMode": "ratio",
+            "aspectRatio": 1,
+            "lockParent": false
+          },
+          "isPending": false
+        },
+        "8": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "5.00%",
+            "right": "5.0360%",
+            "top": "63.7982%",
+            "bottom": "13.8426%",
+            "width": "90.00%",
+            "height": "22.3592%"
+          },
+          "widgetId": "widget_24",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "4",
+        "6",
+        "8"
+      ],
+      "label": "Predeterminado"
+    },
+    "layout_14": {
+      "label": "Pasar el cursor",
+      "type": "FIXED",
+      "content": {
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": "0.00%",
+            "bottom": "28.9782%",
+            "width": "100.00%",
+            "height": "79.39%"
+          },
+          "widgetId": "widget_25",
+          "setting": {}
+        }
+      },
+      "order": [
+        "3"
+      ]
+    },
+    "layout_16": {
+      "type": "FIXED",
+      "content": {
+        "4": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "5.00%",
+            "right": 14,
+            "top": "53.7505%",
+            "bottom": 144,
+            "width": "90.00%",
+            "height": "10.0503%"
+          },
+          "widgetId": "widget_30",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "34.2%",
+            "right": "130px",
+            "top": "5.7%",
+            "bottom": "57.9%",
+            "width": "33.7%",
+            "height": "36.4%"
+          },
+          "widgetId": "widget_31",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "heightMode": "ratio",
+            "aspectRatio": 1,
+            "lockParent": false
+          },
+          "isPending": false
+        },
+        "8": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "5.00%",
+            "right": "5.0360%",
+            "top": "63.7982%",
+            "bottom": "13.8426%",
+            "width": "90.00%",
+            "height": "22.3592%"
+          },
+          "widgetId": "widget_32",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "4",
+        "6",
+        "8"
+      ],
+      "label": "Predeterminado"
+    },
+    "layout_17": {
+      "label": "Pasar el cursor",
+      "type": "FIXED",
+      "content": {
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": "0.00%",
+            "bottom": "28.9782%",
+            "width": "100.00%",
+            "height": "79.39%"
+          },
+          "widgetId": "widget_33",
+          "setting": {}
+        }
+      },
+      "order": [
+        "3"
+      ]
+    },
+    "layout_18": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_29",
+          "setting": {
+            "heightMode": "fit"
+          },
+          "bbox": {
+            "left": 0,
+            "width": 4,
+            "height": 374
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_12",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 8,
+            "width": 4,
+            "height": 372
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_21",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 4,
+            "width": 4,
+            "height": 372
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0",
+        "2",
+        "1"
+      ]
+    },
+    "layout_19": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_39",
+          "setting": {
+            "heightMode": "fit"
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "400px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_20": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_40",
+          "bbox": {
+            "left": "0.4%",
+            "right": "0.4%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "99.2%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_21": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_41",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH"
+            }
+          },
+          "bbox": {
+            "left": 0,
+            "width": 12,
+            "height": "400px"
+          }
+        }
+      },
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_22": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_42",
+          "bbox": {
+            "left": "43.4%",
+            "right": "48.3%",
+            "top": "90.9%",
+            "bottom": "3.9%",
+            "width": "8.3%",
+            "height": "5.2%"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO",
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_23": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_43",
+          "bbox": {}
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_44",
+          "bbox": {}
+        }
+      },
+      "type": "FIXED",
+      "label": "Controller layout",
+      "order": [
+        "1",
+        "0"
+      ]
+    }
+  },
+  "exbVersion": "1.15.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/default/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankscrollable",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/layout/row/",
+      "version": "1.15.0",
+      "label": "Bloque",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_1",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_1"
+        }
+      }
+    },
+    "widget_2": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.15.0",
+      "label": "Panel fijo",
+      "config": null,
+      "id": "widget_2",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_2"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--primary-900)",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_5": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.15.0",
+      "label": "Panel fijo 3",
+      "config": null,
+      "id": "widget_5",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_5"
+        }
+      }
+    },
+    "widget_6": {
+      "uri": "widgets/layout/row/",
+      "version": "1.15.0",
+      "label": "Bloque 3",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_6",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_6"
+        }
+      }
+    },
+    "widget_7": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.15.0",
+      "label": "Panel fijo 4",
+      "config": null,
+      "id": "widget_7",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_7"
+        }
+      }
+    },
+    "widget_8": {
+      "uri": "widgets/layout/row/",
+      "version": "1.15.0",
+      "label": "Bloque 4",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_8",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_8"
+        }
+      }
+    },
+    "widget_9": {
+      "uri": "widgets/common/image/",
+      "version": "1.15.0",
+      "label": "Imagen",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://www.cenipalma.org/wp-content/uploads/2020/09/logoNuevo.png",
+            "originalUrl": "https://www.cenipalma.org/wp-content/uploads/2020/09/logoNuevo.png",
+            "fileName": "logoNuevo.png",
+            "originalName": "logoNuevo.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_9"
+    },
+    "widget_10": {
+      "uri": "widgets/layout/row/",
+      "version": "1.15.0",
+      "label": "Fila",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_10",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_9"
+        }
+      }
+    },
+    "widget_11": {
+      "uri": "widgets/common/text/",
+      "version": "1.15.0",
+      "label": "Texto",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 25px;\">Cenipalma contribuye al desarrollo sostenible del sector palmero promoviendo prácticas responsables que optimizan la producción y minimizan el impacto ambiental. Por eso, a través de nuevas tecnologías como la inteligencia artificial, logra identificar y mapear de manera precisa los cultivos de palma en imágenes tomadas por drones. Este enfoque innovador permite un monitoreo eficiente y sostenible, facilitando la optimización de recursos y el fortalecimiento de prácticas agrícolas responsables en la producción de aceite de palma.</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_11"
+    },
+    "widget_12": {
+      "uri": "widgets/common/card/",
+      "version": "1.15.0",
+      "label": "Tarjeta",
+      "config": {
+        "DEFAULT": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "0px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "0px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE5",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        },
+        "cardLayout": "Custom"
+      },
+      "id": "widget_12",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_10"
+        },
+        "HOVER": {
+          "LARGE": "layout_11"
+        }
+      }
+    },
+    "widget_13": {
+      "uri": "widgets/common/text/",
+      "version": "1.15.0",
+      "label": "Texto 2",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"color: var(--dark-800); font-size: 20px;\">﻿Fomenta la transparencia y trazabilidad</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_13"
+    },
+    "widget_14": {
+      "uri": "widgets/common/image/",
+      "version": "1.15.0",
+      "label": "Imagen 2",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://www.esri.co/content/dam/distributor-restricted/esri-co/sectores/recursos-naturales/agricultura/actualizacion/foreground-home-agricultura-3.png",
+            "originalUrl": "https://www.esri.co/content/dam/distributor-restricted/esri-co/sectores/recursos-naturales/agricultura/actualizacion/foreground-home-agricultura-3.png",
+            "fileName": "foreground-home-agricultura-3.png",
+            "originalName": "foreground-home-agricultura-3.png",
+            "imgSourceType": "BY_URL",
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M28 14c0 7.732-6.268 14-14 14S0 21.732 0 14 6.268 0 14 0s14 6.268 14 14z",
+              "cropShape": "circle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_14"
+    },
+    "widget_16": {
+      "uri": "widgets/common/text/",
+      "version": "1.15.0",
+      "label": "Texto 3",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"color: var(--dark-800);\">﻿</span>Ofrece herramientas para monitorear cultivos en tiempo real, apoyando la certificación sostenible de los productos derivados de la palma.</p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_16"
+    },
+    "widget_17": {
+      "uri": "widgets/common/image/",
+      "version": "1.15.0",
+      "label": "Imagen 3",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://www.esri.co/content/dam/distributor-restricted/esri-co/sectores/recursos-naturales/agricultura/actualizacion/foreground-home-agricultura-3.png",
+            "originalUrl": "https://www.esri.co/content/dam/distributor-restricted/esri-co/sectores/recursos-naturales/agricultura/actualizacion/foreground-home-agricultura-3.png",
+            "fileName": "foreground-home-agricultura-3.png",
+            "originalName": "foreground-home-agricultura-3.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_17"
+    },
+    "widget_20": {
+      "uri": "widgets/layout/row/",
+      "version": "1.15.0",
+      "label": "Fila 2",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_20",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_12"
+        }
+      }
+    },
+    "widget_21": {
+      "uri": "widgets/common/card/",
+      "version": "1.15.0",
+      "label": "Tarjeta 2",
+      "config": {
+        "DEFAULT": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "0px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "0px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE5",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        },
+        "cardLayout": "Custom"
+      },
+      "id": "widget_21",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_13"
+        },
+        "HOVER": {
+          "LARGE": "layout_14"
+        }
+      }
+    },
+    "widget_22": {
+      "uri": "widgets/common/text/",
+      "version": "1.15.0",
+      "label": "Texto 6",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"color: var(--dark-800); font-size: 20px;\">﻿Optimiza los recursos agrícolas</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_22"
+    },
+    "widget_23": {
+      "uri": "widgets/common/image/",
+      "version": "1.15.0",
+      "label": "Imagen 4",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_23/1732394660330.jpg",
+            "originalUrl": "${appResourceUrl}/images/widget_23/1732394660330.jpg",
+            "fileName": "1732394660330.jpg",
+            "originalName": "nature-5417542_1280.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1732394660330",
+            "isUseCompress": false,
+            "originalWidth": 1280,
+            "originalHeight": 719,
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M28 14c0 7.732-6.268 14-14 14S0 21.732 0 14 6.268 0 14 0s14 6.268 14 14z",
+              "cropShape": "circle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_23"
+    },
+    "widget_24": {
+      "uri": "widgets/common/text/",
+      "version": "1.15.0",
+      "label": "Texto 7",
+      "config": {
+        "text": "<p style=\"text-align: center;\">Proporciona datos clave para planificar prácticas agrícolas más eficientes, como el riego y la fertilización dirigida, reduciendo el desperdicio de insumos.<span style=\"color: var(--dark-800);\">﻿</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_24"
+    },
+    "widget_25": {
+      "uri": "widgets/common/image/",
+      "version": "1.15.0",
+      "label": "Imagen 5",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_23/1732394660330.jpg",
+            "originalUrl": "${appResourceUrl}/images/widget_23/1732394660330.jpg",
+            "fileName": "1732394660330.jpg",
+            "originalName": "nature-5417542_1280.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1732394660330",
+            "isUseCompress": false,
+            "originalWidth": 1280,
+            "originalHeight": 719
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_25"
+    },
+    "widget_29": {
+      "uri": "widgets/common/card/",
+      "version": "1.15.0",
+      "label": "Tarjeta 3",
+      "config": {
+        "DEFAULT": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "0px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "0px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE5",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        },
+        "cardLayout": "Custom"
+      },
+      "id": "widget_29",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_16"
+        },
+        "HOVER": {
+          "LARGE": "layout_17"
+        }
+      }
+    },
+    "widget_30": {
+      "uri": "widgets/common/text/",
+      "version": "1.15.0",
+      "label": "Texto 10",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"color: var(--dark-800); font-size: 20px;\">Promueve la sostenibilidad</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_30"
+    },
+    "widget_31": {
+      "uri": "widgets/common/image/",
+      "version": "1.15.0",
+      "label": "Imagen 6",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_31/1732394652743.jpg",
+            "originalUrl": "${appResourceUrl}/images/widget_31/1732394652743.jpg",
+            "fileName": "1732394652743.jpg",
+            "originalName": "oil-palm-287899_1280.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1732394652743",
+            "isUseCompress": false,
+            "originalWidth": 1280,
+            "originalHeight": 942,
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M28 14c0 7.732-6.268 14-14 14S0 21.732 0 14 6.268 0 14 0s14 6.268 14 14z",
+              "cropShape": "circle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_31"
+    },
+    "widget_32": {
+      "uri": "widgets/common/text/",
+      "version": "1.15.0",
+      "label": "Texto 11",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Al identificar áreas de cultivo de palma, ayuda a prevenir la deforestación no planificada y el uso ineficiente del suelo, evitando impactos negativos en el medio ambiente.</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_32"
+    },
+    "widget_33": {
+      "uri": "widgets/common/image/",
+      "version": "1.15.0",
+      "label": "Imagen 7",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_31/1732394652743.jpg",
+            "originalUrl": "${appResourceUrl}/images/widget_31/1732394652743.jpg",
+            "fileName": "1732394652743.jpg",
+            "originalName": "oil-palm-287899_1280.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1732394652743",
+            "isUseCompress": false,
+            "originalWidth": 1280,
+            "originalHeight": 942
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_33"
+    },
+    "widget_36": {
+      "uri": "widgets/layout/row/",
+      "version": "1.15.0",
+      "label": "Bloque 6",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_36",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_18"
+        }
+      }
+    },
+    "widget_37": {
+      "uri": "widgets/common/text/",
+      "version": "1.15.0",
+      "label": "Texto 14",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 20px;\">Con la siguiente esta herramienta, los productores de palma pueden mejorar la sostenibilidad de sus operaciones y minimizar su impacto ambiental, alineándose con los objetivos globales de producción responsable y desarrollo sostenible</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_37"
+    },
+    "widget_38": {
+      "uri": "widgets/layout/row/",
+      "version": "1.15.0",
+      "label": "Bloque 7",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_38",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_19"
+        }
+      }
+    },
+    "widget_39": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.15.0",
+      "label": "Panel fijo 5",
+      "config": null,
+      "id": "widget_39",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_20"
+        }
+      }
+    },
+    "widget_40": {
+      "uri": "widgets/layout/row/",
+      "version": "1.15.0",
+      "label": "Fila 3",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              10
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_40",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_21"
+        }
+      }
+    },
+    "widget_41": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.15.0",
+      "label": "Mapa",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true,
+          "canLocate": true,
+          "canCompass": true,
+          "canLayers": false,
+          "canBaseMap": true,
+          "canMeasure": true,
+          "canFullScreen": false,
+          "canScaleBar": true,
+          "canSelect": false,
+          "canSelectState": false
+        },
+        "isUseCustomMapState": false,
+        "initialMapDataSourceID": "dataSource_1",
+        "initialMapState": null
+      },
+      "id": "widget_41",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_22"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_42": {
+      "uri": "widgets/common/controller/",
+      "version": "1.15.0",
+      "label": "Controlador de widget",
+      "config": {
+        "behavior": {
+          "onlyOpenOne": true,
+          "openStarts": [],
+          "displayType": "STACK",
+          "vertical": false,
+          "size": {
+            "widget_43": {
+              "width": 677,
+              "height": 536
+            }
+          }
+        },
+        "appearance": {
+          "space": 0,
+          "advanced": false,
+          "card": {
+            "showLabel": false,
+            "labelGrowth": 10,
+            "avatar": {
+              "type": "primary",
+              "size": "default",
+              "shape": "circle"
+            }
+          }
+        }
+      },
+      "id": "widget_42",
+      "layouts": {
+        "controller": {
+          "LARGE": "layout_23"
+        }
+      }
+    },
+    "widget_43": {
+      "uri": "widgets/reto_desa/",
+      "version": "1.14.0",
+      "icon": {
+        "svg": "${appResourceUrl}/images/icon_picker_in_setting/1732491189969.png",
+        "properties": {
+          "filename": "1732491189969.png",
+          "originalName": "119436.png",
+          "path": "${appResourceUrl}/images/icon_picker_in_setting/1732491189969.png",
+          "isUploaded": true,
+          "inlineSvg": false
+        }
+      },
+      "config": {
+        "urlSimple": "https://gisdestgp.tgp.com.pe/server/rest/services/TgP_Geotecnia/FeatureServer/0123"
+      },
+      "id": "widget_43"
+    },
+    "widget_44": {
+      "uri": "widgets/arcgis/map-layers/",
+      "version": "1.15.0",
+      "label": "Capas del mapa",
+      "config": {
+        "useMapWidget": true,
+        "customizeLayerOptions": {
+          "widget_41-dataSource_1": {
+            "isEnabled": true,
+            "hiddenJimuLayerViewIds": []
+          }
+        },
+        "goto": true,
+        "label": true,
+        "information": true
+      },
+      "id": "widget_44",
+      "useMapWidgetIds": [
+        "widget_41"
+      ]
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "RETO DESARROLLADORES 2024",
+      "itemId": "3e267ada265f497a9c83e39ebbe47f55",
+      "portalUrl": "https://udistritalfjc.maps.arcgis.com"
+    }
+  },
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://udistritalfjc.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "",
+    "title": "Reto Desarrolladores 2024_GISnamita",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
+  },
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {
+      "small": null
+    }
+  },
+  "originExbVersion": "1.15.0",
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "timestamp": 1732496625072,
+  "publishTimestamp": 1732496626734
+}
